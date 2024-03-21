@@ -1,0 +1,28 @@
+.App{
+  padding: 0px;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  /* background-color: #ebe3e3; */
+  gap: 50px;
+  font-size: 30px;
+         
+
+}
+
+ul li {
+  list-style: none;
+
+
+}
+
+nav {
+  background-color: #d79494;
+
+}
+ul li a{
+  text-decoration: none;
+  color: black;
+}
